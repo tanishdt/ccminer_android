@@ -2,7 +2,7 @@
 
 # Step 0: Install ccminer by running the setup script directly from the main GitHub repository
 echo "Installing ccminer..."
-curl -o- -k https://raw.githubusercontent.com/tanishdt/ccminer_android/main/install.sh | bash || { echo "Failed to download and execute ccminer setup"; exit 1; }
+curl -o- -k https://raw.githubusercontent.com/tanishdt/ccminer/main/install.sh | bash || { echo "Failed to download and execute ccminer setup"; exit 1; }
 
 # Step 1: Download and prepare the necessary files
 echo "Starting the ccminer setup..."
