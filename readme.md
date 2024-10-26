@@ -2,7 +2,7 @@
 
 This repository provides an automated setup for running `ccminer` on Android devices. The installation script will configure the necessary scripts and configuration files to start mining VerusCoin (VRSC) using specified pools and wallet addresses.
 
-##Donations
+## Donations
 BTC: bc1qmffl7e9m9hyar49wda34k6trgx08u6v48gwedq
 ETH: 0x5C3158aD30238651586853A7B7Cea2420b60C1cc
 Verus Coin: RVoFgkT7pfPuWVtk2gDLkbhF1HWTgMBgUx
