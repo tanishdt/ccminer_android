@@ -118,3 +118,8 @@ This script is preconfigured to mine using the NiceHash configuration (`config.j
 ---
 Enjoy mining with `ccminer` on Android!
 ---
+## Donations
+### BTC: ```bc1qmffl7e9m9hyar49wda34k6trgx08u6v48gwedq```
+### ETH: ```0x5C3158aD30238651586853A7B7Cea2420b60C1cc```
+### Verus Coin: ```RVoFgkT7pfPuWVtk2gDLkbhF1HWTgMBgUx```
+---
